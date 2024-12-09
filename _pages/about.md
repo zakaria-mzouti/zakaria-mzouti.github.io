@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <br>
+
 Position
 ======
    * PhD Candidate at HEC Liège (University of Liège).
