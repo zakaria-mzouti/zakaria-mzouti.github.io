@@ -7,7 +7,19 @@ redirect_from:
   - /about.html
 ---
 
+Position
+======
+    * PhD Candidate at HEC Liège (University of Liège).
 
-I'm a 3rd year PhD Candidate at HEC Liège (University of Liège).
+Research Interest
+======
+   * Macroeconomics
+   * Monetary Economics
 
-My research fields are macroeconomics and monetary economics.
+Contact
+======
+hamedzakaria.mzouti@uliege.be
+
+14 Rue Louvrex, 
+Liége, Belgium, 4000
+
