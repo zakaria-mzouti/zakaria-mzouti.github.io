@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I'm a 3rd year PhD Candidate at HEC Liège (University of Liège).
 
 My research fields are macroeconomics and monetary economics.
