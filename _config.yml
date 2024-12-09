@@ -1,4 +1,4 @@
-gi# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"zakaria-mzouti"
+  github           : "zakaria-mzouti"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         :  #"https://be.linkedin.com/in/hamed-zakaria-mzouti-8a7b43167"
+  linkedin         : "https://be.linkedin.com/in/hamed-zakaria-mzouti-8a7b43167"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
