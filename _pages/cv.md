@@ -24,12 +24,12 @@ Work experience
 
 Research
 ======
-* Working papers 
- * A Multisector TANK-IO model: the heterogeneity in the production economy matters for inequality
- * Heterogeneity and the amplification of monetary shocks: A Multisector TANK model with Pierrick Clerc
+* Working papers
+   * A Multisector TANK-IO model: the heterogeneity in the production economy matters for inequality
+   * Heterogeneity and the amplification of monetary shocks: A Multisector TANK model with Pierrick Clerc
 
 *Work in progress
- * Optimal monetary policy in a Multisector TANK-IO model
+   *Optimal monetary policy in a Multisector TANK-IO model
 
   
 Skills
