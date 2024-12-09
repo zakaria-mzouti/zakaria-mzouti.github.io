@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<br>
 Position
 ======
    * PhD Candidate at HEC Liège (University of Liège).
@@ -19,7 +19,7 @@ Research Interest
 
 Contact
 ======
-hamedzakaria.mzouti@uliege.be
+<hamedzakaria.mzouti@uliege.be>
 
 14 Rue Louvrex,<br>
 Liége, Belgium, 4000
