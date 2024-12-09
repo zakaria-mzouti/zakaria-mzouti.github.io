@@ -13,7 +13,7 @@ Position
 ======
    * PhD Candidate at HEC Liège (University of Liège).
 
-Research Interest
+Research Interests
 ======
    * Macroeconomics
    * Monetary Economics
