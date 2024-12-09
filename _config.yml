@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Hamed Zakaria Mzouti"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at HEC Liège"
   location         : "Belgium"
-  employer         : "HEC Liège (University of Liège)"
+  employer         : "University of Liège"
   uri              : # URL
   email            : "hamedzakaria.mzouti@uliege.be" 
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://be.linkedin.com/in/hamed-zakaria-mzouti-8a7b43167"
+  linkedin         : "in/hamed-zakaria-mzouti-8a7b43167"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
