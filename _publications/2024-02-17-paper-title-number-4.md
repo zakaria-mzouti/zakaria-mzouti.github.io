@@ -1,7 +1,7 @@
 ---
-title: "Optimal Monetary Policy in a Multisector TANK - Io model"
+title: "Optimal Monetary Policy in a Multisector TANK - IO model"
 collection: publications
 category: conferences
 ---
 
-**Abstract:** The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract:** I consider different types of households’ and firms’ heterogeneity – and, especially, to which extent the optimal response of the inflation rate would depart from zero after the occurrence of real disturbances.
