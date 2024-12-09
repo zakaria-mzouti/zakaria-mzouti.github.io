@@ -1,5 +1,5 @@
 ---
-title: "A Multisector TANK-IO model: the heterogeneity in the production economy matters for inequality"
+"A Multisector TANK-IO model: the heterogeneity in the production economy matters for inequality"
 collection: Working papers
 category: Working papers
 ---
