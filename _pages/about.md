@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! I'm Zakaria.
+title: "Welcome! I'm Zakaria."
 author_profile: true
 redirect_from: 
   - /about/
