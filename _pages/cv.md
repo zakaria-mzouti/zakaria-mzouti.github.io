@@ -28,8 +28,8 @@ Research
    * A Multisector TANK-IO model: the heterogeneity in the production economy matters for inequality
    * Heterogeneity and the amplification of monetary shocks: A Multisector TANK model with Pierrick Clerc
 
-*Work in progress
-   *Optimal monetary policy in a Multisector TANK-IO model
+* Work in progress
+   * Optimal monetary policy in a Multisector TANK-IO model
 
   
 Skills
@@ -52,4 +52,4 @@ Languages
 
 
 
--
+
