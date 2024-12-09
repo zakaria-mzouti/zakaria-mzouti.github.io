@@ -1,6 +1,6 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "A Multisector TANK-IO model: the heterogeneity in the production economy matters for inequality"
+collection: Working papers
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
