@@ -21,6 +21,6 @@ Contact
 ======
 hamedzakaria.mzouti@uliege.be
 
-14 Rue Louvrex,\\ 
+14 Rue Louvrex,<br>
 Liége, Belgium, 4000
 
