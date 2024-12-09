@@ -1,5 +1,5 @@
 ---
-title: "Heterogeneity and the amplification of monetary shocks: A Two-Sector TANK model with "
+title: "Heterogeneity and the amplification of monetary shocks: A Two-Sectors TANK model"
 collection: Working papers
 category: Working papers
 ---
