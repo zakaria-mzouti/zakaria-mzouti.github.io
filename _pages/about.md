@@ -9,7 +9,7 @@ redirect_from:
 
 Position
 ======
-    * PhD Candidate at HEC Liège (University of Liège).
+   * PhD Candidate at HEC Liège (University of Liège).
 
 Research Interest
 ======
