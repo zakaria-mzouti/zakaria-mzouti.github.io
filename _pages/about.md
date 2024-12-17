@@ -26,9 +26,9 @@ We are excited to announce the inaugural HEC-Liège Young Researchers Conference
    * Network and explore Liège through a guided tour and dinner.
 
 <br>
-:calendar: Friday, April 18, 2025
+:calendar: April 18, 2025
 :round_pushpin: HEC-Liège – Liège, Belgium
-:hourglass: Submission deadline:January 31, 2025
+:hourglass: Submission deadline: January 31, 2025
 
 For more info, please visit [HYRCE's website](https://www.hec.uliege.be/hyrce)
 
