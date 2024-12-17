@@ -18,6 +18,11 @@ Research Interests
    * Macroeconomics
    * Monetary Economics
 
+:loudspeaker: Alert
+======
+We are excited to announce the inaugural HEC-Liège Young Researchers Conference in Economics (HYRCE)! This one-day event offers PhD students and postdoctoral researchers the opportunity to:
+   * Present research and receive valuable feedback.
+
 Contact
 ======
 <hamedzakaria.mzouti@uliege.be>
