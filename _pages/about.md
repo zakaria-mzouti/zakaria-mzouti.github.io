@@ -24,7 +24,7 @@ We are excited to announce the inaugural HEC-Liège Young Researchers Conference
    * Present research and receive valuable feedback.
    * Engage with peers and senior academics.
    * Network and explore Liège through a guided tour and dinner.
-
+<br>
 :calendar: Friday, April 18, 2025
 :round_pushpin: HEC-Liège – Liège, Belgium
 :hourglass: Submission deadline January 31, 2025
