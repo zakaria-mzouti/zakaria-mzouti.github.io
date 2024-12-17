@@ -22,6 +22,13 @@ Research Interests
 ======
 We are excited to announce the inaugural HEC-Liège Young Researchers Conference in Economics (HYRCE)! This one-day event offers PhD students and postdoctoral researchers the opportunity to:
    * Present research and receive valuable feedback.
+   * Engage with peers and senior academics.
+   * Network and explore Liège through a guided tour and dinner.
+:calendar: Friday, April 18, 2025
+:round_pushpin: HEC-Liège – Liège, Belgium
+:alarm_clock: Submission deadline: January 31, 2025
+
+For more info, please visit the [HYRCE website]([https://www.genome.gov](https://www.hec.uliege.be/hyrce)
 
 Contact
 ======
