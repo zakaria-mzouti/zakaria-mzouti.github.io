@@ -20,15 +20,15 @@ Research Interests
 
 :loudspeaker: Alert
 ======
-We are excited to announce the inaugural HEC-Liège Young Researchers Conference in Economics (HYRCE)! This one-day event offers PhD students and postdoctoral researchers the opportunity to:
+We are excited to announce the second edition of HEC-Liège Young Researchers Conference in Economics (HYRCE)! This event offers PhD students and postdoctoral researchers the opportunity to:
    * Present research and receive valuable feedback.
    * Engage with peers and senior academics.
    * Network and explore Liège through a guided tour and dinner.
 
 <br>
-:calendar: April 18, 2025
+:calendar: Thursday and Friday, April 16th & 17th 2026
 :round_pushpin: HEC-Liège – Liège, Belgium
-:hourglass: Submission deadline: January 31, 2025
+:hourglass: Submission deadline: January 31, 2026
 
 For more info, please visit [HYRCE's website](https://www.hec.uliege.be/hyrce)
 
