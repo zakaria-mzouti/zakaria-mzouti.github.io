@@ -11,8 +11,8 @@ redirect_from:
 
 Position
 ======
+   * Research Economist at the National Bank of Belgium (NBB).
    * PhD Candidate at HEC Liège (University of Liège).
-   * Economist Researcher at the National Bank of Belgium (NBB°
 
 Research Interests
 ======
