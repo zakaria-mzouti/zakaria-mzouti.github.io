@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* Research Economist (June 2026 - Today)
+  * National Bank of Belgium, Brussels
+  * Economics and Research Department
 * Research Intern (February 2021 - April 2021)
   * National Bank of Belgium, Brussels
   * Duties includes: Estimation of the bridge equations needed to forecast variables in the ECB BMPE projection exercises framework.
