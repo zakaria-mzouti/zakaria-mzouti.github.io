@@ -37,7 +37,7 @@
 /* Modification de la photo de profil */
 .author__avatar img {
   border-radius: 8px !important; /* Rend la photo rectangulaire avec des coins arrondis */
-  aspect-ratio: 1 / 1;          /* Conserve un format carré */
+  aspect-ratio: 3 / 4;          /* Conserve un format carré */
   object-fit: cover;
 }
 
