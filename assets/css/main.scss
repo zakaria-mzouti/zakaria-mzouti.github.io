@@ -40,18 +40,30 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-
+/* Ajustement précis de la taille et centrage du conteneur */
 .author__avatar {
-  display: block;
-  width: 100%;
-  max-width: 170px; /* Taille idéale pour équilibrer le volet gauche */
-  margin: 0 auto 1.2rem auto; /* Centre la photo et ajoute un espace en bas */
+  display: block !important;
+  width: 140px !important;       /* Réduit légèrement la largeur (ajustable entre 130px et 150px) */
+  margin: 0 auto 1rem auto !important; /* Centre horizontalement la photo par rapport à la colonne */
 }
 
+/* Style de l'image */
 .author__avatar img {
-  border-radius: 12px !important; /* Arrondi légèrement plus doux et moderne */
-  width: 100%;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* Ajoute un léger relief */
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 1 / 1 !important; /* Garde une forme carrée idéale */
+  border-radius: 8px !important;  /* Bords légèrement arrondis */
+  object-fit: cover !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08) !important; /* Ombre très discrète */
+}
+
+/* Alignement du nom et du titre sous la photo */
+.author__content {
+  text-align: center !important;  /* Centre le nom "Hamed Zakaria Mzouti" sous la photo */
+  padding-right: 0 !important;
+}
+
+.author__urls-wrapper {
+  text-align: left !important;    /* Laisse les icônes (Belgium, University...) alignées à gauche */
+  margin-top: 1rem !important;
 }
