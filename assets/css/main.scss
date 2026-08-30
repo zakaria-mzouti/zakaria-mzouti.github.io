@@ -40,27 +40,26 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Modification pour afficher la photo en hauteur (portrait) sans recadrage */
-.author__avatar img {
-  border-radius: 8px !important; /* Maintient les coins arrondis */
-  width: 100% !important;        /* Prend toute la largeur de la sidebar */
-  
-  /* --- LES MODIFICATIONS IMPORTANTES SONT ICI --- */
-  
-  /* 1. On retire le ratio carré (s'il était présent) */
-  aspect-ratio: auto !important;  
-  
-  /* 2. On désactive le recadrage 'cover' pour montrer toute l'image */
-  object-fit: contain !important; 
-  
-  /* 3. On s'assure qu'elle ne devienne pas trop grande pour la sidebar */
-  max-width: 100% !important;    
-  height: auto !important;        /* Laisse la hauteur s'ajuster naturellement */
-  
-  /* ----------------------------------------------- */
+.author__avatar {
+  display: block !important;
+  width: 100% !important;
+  max-width: 180px !important;  /* Ajustez la largeur globale selon votre préférence */
+  margin: 0 auto 1.2rem auto !important;
 }
 
-.author__urls-wrapper {
-  text-align: left !important;    /* Laisse les icônes (Belgium, University...) alignées à gauche */
-  margin-top: 1rem !important;
+.author__avatar img {
+  width: 100% !important;
+  height: auto !important;
+  
+  /* Format rectangulaire vertical (portrait) */
+  aspect-ratio: 3 / 4 !important; 
+  
+  /* Remplissage propre */
+  object-fit: cover !important;
+  
+  /* ALIGNE L'IMAGE VERS LE HAUT pour ne pas couper la tête */
+  object-position: top center !important; 
+  
+  border-radius: 8px !important; /* Coins légèrement arrondis */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08) !important;
 }
