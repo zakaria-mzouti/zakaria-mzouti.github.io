@@ -34,15 +34,24 @@
 @import "archive";
 @import "sidebar";
 
-/* Modification de la photo de profil */
-.author__avatar img {
-  border-radius: 8px !important; /* Rend la photo rectangulaire avec des coins arrondis */
-  aspect-ratio: 3 / 4;          /* Conserve un format carré */
-  object-fit: cover;
-}
-
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+.author__avatar {
+  display: block;
+  width: 100%;
+  max-width: 170px; /* Taille idéale pour équilibrer le volet gauche */
+  margin: 0 auto 1.2rem auto; /* Centre la photo et ajoute un espace en bas */
+}
+
+.author__avatar img {
+  border-radius: 12px !important; /* Arrondi légèrement plus doux et moderne */
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* Ajoute un léger relief */
+}
