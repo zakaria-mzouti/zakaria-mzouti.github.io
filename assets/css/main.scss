@@ -63,3 +63,38 @@
   border-radius: 8px !important; /* Coins légèrement arrondis */
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08) !important;
 }
+
+/* Correction pour l'affichage mobile (écrans < 1024px) */
+@media screen and (max-width: 1023px) {
+  
+  /* Permet à l'image et au texte de se superposer proprement */
+  .author__avatar {
+    display: block !important;
+    float: none !important;
+    width: 100% !important;
+    max-width: 120px !important; /* Taille adaptée pour mobile */
+    margin: 0 auto 1rem auto !important; /* Centre la photo sur mobile */
+  }
+
+  .author__avatar img {
+    width: 100% !important;
+    height: auto !important;
+    aspect-ratio: 3 / 4 !important;
+    object-fit: cover !important;
+    object-position: top center !important;
+    border-radius: 8px !important;
+  }
+
+  /* Centre le nom et le bouton sous la photo */
+  .author__content {
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+    padding: 0 !important;
+  }
+
+  /* Aligne le bouton Follow au centre */
+  .author__urls-wrapper {
+    text-align: center !important;
+  }
+}
