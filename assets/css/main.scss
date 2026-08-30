@@ -40,27 +40,24 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Ajustement précis de la taille et centrage du conteneur */
-.author__avatar {
-  display: block !important;
-  width: 140px !important;       /* Réduit légèrement la largeur (ajustable entre 130px et 150px) */
-  margin: 0 auto 1rem auto !important; /* Centre horizontalement la photo par rapport à la colonne */
-}
-
-/* Style de l'image */
+/* Modification pour afficher la photo en hauteur (portrait) sans recadrage */
 .author__avatar img {
-  width: 100% !important;
-  height: auto !important;
-  aspect-ratio: 1 / 1 !important; /* Garde une forme carrée idéale */
-  border-radius: 8px !important;  /* Bords légèrement arrondis */
-  object-fit: cover !important;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08) !important; /* Ombre très discrète */
-}
-
-/* Alignement du nom et du titre sous la photo */
-.author__content {
-  text-align: center !important;  /* Centre le nom "Hamed Zakaria Mzouti" sous la photo */
-  padding-right: 0 !important;
+  border-radius: 8px !important; /* Maintient les coins arrondis */
+  width: 100% !important;        /* Prend toute la largeur de la sidebar */
+  
+  /* --- LES MODIFICATIONS IMPORTANTES SONT ICI --- */
+  
+  /* 1. On retire le ratio carré (s'il était présent) */
+  aspect-ratio: auto !important;  
+  
+  /* 2. On désactive le recadrage 'cover' pour montrer toute l'image */
+  object-fit: contain !important; 
+  
+  /* 3. On s'assure qu'elle ne devienne pas trop grande pour la sidebar */
+  max-width: 100% !important;    
+  height: auto !important;        /* Laisse la hauteur s'ajuster naturellement */
+  
+  /* ----------------------------------------------- */
 }
 
 .author__urls-wrapper {
